@@ -2,9 +2,10 @@
 public class Hello {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("Welcome to Git!");
-		System.out.println("2nd Commit");
+		System.out.println("yang - This line is added by Dr. Yang.");
+		// Add a new line with your information
+		System.out.println("SacStateID - This line is added by First name Last name.");
 }
 
 }
